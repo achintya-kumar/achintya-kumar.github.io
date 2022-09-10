@@ -1,0 +1,25 @@
+title:              Achintya Kumar
+email:              mail@achintyakumar.com
+description:        Software Engineer | Big Data + ASML Photolithography Machines
+author:             Achintya Kumar
+baseurl:            ""
+url:                "https://achintya-kumar.github.io"
+
+# Social Profiles
+twitter_username:   achintyakoomer
+github_username:    achintya-kumar
+facebook_username:  achintyakoomer
+instagram_username:  achintyakoomer
+linkedin_username:  achintyakoomer
+
+# Add your google-analytics ID here to activate google analytics
+# google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
